@@ -1,5 +1,5 @@
 .bgimg{
-    background-image: url(/mongodb/image/login_desktop.png);
+    background-image: url(./image/login_desktop.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -8,7 +8,7 @@
 }
 
 .bgimg2{
-    background-image: url(/mongodb/image/login_desktop.png);
+    background-image: url(./image/login_desktop.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
