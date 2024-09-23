@@ -1,0 +1,17 @@
+.bgimg{
+    background-image: url(/mongodb/image/login_desktop.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+}
+
+.bgimg2{
+    background-image: url(/mongodb/image/login_desktop.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 50px;
+}
